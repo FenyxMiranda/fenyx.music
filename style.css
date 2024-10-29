@@ -99,3 +99,22 @@ h1 {
   opacity: 1;
   border: 1px solid white;
 }
+
+.Outrasdehungria {
+  display: flex;
+  overflow-y: auto;
+  gap: 10px;
+}
+
+.hungria {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.Outrasdehungria img {
+  opacity: 0.5;
+  height: 180px;
+}
+
+.Outrasdehungria img:hover {
+  opacity: 1;
+  border: 1px solid white;}
