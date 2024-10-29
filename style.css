@@ -25,8 +25,8 @@ body {
   
   h1 {
     font-size: 40px;
-    justify-content: center;
-    padding-left: 25%;
+   padding-right: 25%;
+    text-align: center;
   }
   
   .OutrasdePedrosa {
@@ -48,7 +48,7 @@ body {
     opacity: 1;
     border: 1px solid white;
   }
-  
+
   body {
   color: white;
   background: black;
