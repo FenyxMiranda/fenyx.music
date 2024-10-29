@@ -1,0 +1,101 @@
+body {
+    color: white;
+    background: black;
+    margin: 30px;
+    font-family: "Dela Gothic One", sans-serif;
+    margin-bottom: 120px;
+  }
+  
+  header {
+    border-bottom: solid 2px white;
+    margin: 1px;
+    font-size: 33px;
+  }
+  
+  .texto {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: 25%;
+  }
+  
+  .chamadatexto {
+    margin: 7%;
+  }
+  
+  h1 {
+    font-size: 40px;
+    justify-content: center;
+    padding-left: 25%;
+  }
+  
+  .OutrasdePedrosa {
+    display: flex;
+    overflow-y: auto;
+    gap: 10px;
+  }
+  
+  .Pedrosa {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .OutrasdePedrosa img {
+    opacity: 0.5;
+    height: 180px;
+  }
+  
+  .OutrasdePedrosa img:hover {
+    opacity: 1;
+    border: 1px solid white;
+  }
+  
+  body {
+  color: white;
+  background: black;
+  margin: 30px;
+  font-family: "Dela Gothic One", sans-serif;
+  margin-bottom: 120px;
+}
+
+header {
+  border-bottom: solid 2px white;
+  margin: 1px;
+  font-size: 33px;
+}
+
+.texto {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: 25%;
+}
+
+.chamadatexto {
+  margin: 7%;
+}
+
+h1 {
+  font-size: 40px;
+  justify-content: center;
+  padding-left: 25%;
+}
+
+.OutrasdePedrosa {
+  display: flex;
+  overflow-y: auto;
+  gap: 10px;
+}
+
+.Pedrosa {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.OutrasdePedrosa img {
+  opacity: 0.5;
+  height: 180px;
+}
+
+.OutrasdePedrosa img:hover {
+  opacity: 1;
+  border: 1px solid white;
+}
